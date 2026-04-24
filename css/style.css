@@ -3980,6 +3980,9 @@ html.with-fancybox body.hide-scrollbar {
   gap: 0.125rem;
 }
 .user-reviews__name {
+  font-size: 1rem;
+  font-family: var(--font-family);
+  text-transform: none;
   font-weight: 700;
   color: var(--main-color);
 }
